@@ -8,6 +8,7 @@ ____
 I am also interested in new technologies and development in the modern world.
 I have poor technical knowledge for now but I try to do everything to fix it.
 I like training, it’s interesting :)
+
 ### My skills: 
   - HTML.
   - CSS/SCSS.

@@ -63,3 +63,5 @@ function validatePIN(pin) {
  -  [Codeacademy](https://www.codecademy.com/profiles/venik22814883995567775) 
  -  [Htmlacademy](https://htmlacademy.ru/profile/id1193861)
  -  [Hexlet](https://ru.hexlet.io/u/andry-man)
+###  My English :
+English level I train in duolingo app, and while traveling.

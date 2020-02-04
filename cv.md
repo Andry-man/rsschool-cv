@@ -1,7 +1,7 @@
 # Andrei Chapiuk
 ____
 #### My contacts:
-[![N|Solid](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/4299173531574338602-64.png)](<venik2281488@gmail.com>)[![N|Solid](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/1766858341556105723-64.png)](https://telegram.me/kod321)
+[![N|Solid](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/4299173531574338602-64.png)](venik2281488@gmail.com)[![N|Solid](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/1766858341556105723-64.png)](https://telegram.me/kod321)
 ### Purpose of my training:
 >I am interested in web development, and I want to learn how to develop on a high level, what I’m doing now while studying in RSS.
 I am also interested in new technologies and development in the modern world.

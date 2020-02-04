@@ -10,7 +10,7 @@ I like training, it’s interesting :)
 ### My skills: 
   - HTML.
   - CSS/SCSS.
-    - JavaScript.
+  - JavaScript.
   - Git.
   - Bootstrap.
   - Layout by PSD and figma.

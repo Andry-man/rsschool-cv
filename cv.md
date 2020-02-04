@@ -52,6 +52,7 @@ function validatePIN(pin) {
 // Функция принимает PIN (только цифры, length = 4||6);
 ```
 ###  My experience:
+
 | Name: |Link: |
 | ------ | ------ |
 | Github | [Andry-man](https://github.com/Andry-man) |

@@ -1,6 +1,6 @@
 .main_wrapper {
 width: 1024px;
-height: 100vh;
+height: 151vh;
 margin: auto;
 background: rgba(102,102,102,1);
 background: -moz-linear-gradient(top, rgba(102,102,102,1) 0%, rgba(33,33,33,1) 100%);
@@ -14,7 +14,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', end
 .header {
 background-color: #b2bfffbd;
 width: 100%;
-height: 31%;
+height: 21%;
 border-radius: 9px 9px 9px 9px;
 -moz-border-radius: 9px 9px 9px 9px;
 -webkit-border-radius: 9px 9px 9px 9px;
@@ -59,4 +59,53 @@ font-size: 3em;
 text-align: center;
 text-transform: uppercase;
 margin-top: 4%;
+}
+.maine_container {
+display: flex;
+width: 93%;
+margin: auto;
+height: 79%;
+flex-direction: column;
+background-color: #940000e6;
+}
+.section-one {
+width: 100%;
+height: 9%;
+margin: auto;
+background-color: chocolate;
+}
+.section-two {
+width: 100%;
+height: 6%;
+margin: auto;
+background-color: chocolate;
+}
+.section-tree {
+width: 100%;
+height: 21%;
+margin: auto;
+background-color: chocolate;
+}
+.section-four {
+width: 100%;
+height: 17%;
+margin: auto;
+background-color: chocolate;
+}
+.section-five {
+width: 100%;
+height: 14%;
+margin: auto;
+background-color: chocolate;
+}
+.section-six {
+width: 100%;
+height: 14%;
+margin: auto;
+background-color: chocolate;
+}
+span {
+text-transform: uppercase;
+color: beige;
+font-size: 1.3em;
 }

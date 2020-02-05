@@ -23,14 +23,17 @@ display: flex;
 flex-direction: row;
 }
 .main_img {
-width: 23%;
+width: 16%;
 height: auto;
 margin-left: 7%;
+background: url(http://poor-camera.surge.sh/src/img/7QR3m7S.png) no-repeat;
+background-position: center;
 }
 .my_photo {
 width: 12vw;
 height: auto;
 margin-top: 4%;
+display: none;
 }
 .info_container {
 width: 59%;
